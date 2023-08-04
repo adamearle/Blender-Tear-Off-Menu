@@ -11,7 +11,7 @@ bl_info = {
 
 
 '''
-Boiler plate starer code that enables the addon developer to put on buttons in a floating windpw
+Boilerplate starter code that enables the addon developer to put on buttons in a floating window
 '''
 
 
